@@ -10,7 +10,7 @@ Python script generates random Google Play redemption codes, checks their validi
 
 - **🛠️ Error Handling and Rate Limiting:** Robust error handling is implemented to manage exceptions during code generation and checking. Additionally, a small delay is included between requests to avoid rate limiting and ensure smooth operation.
 
-- **📊 Clear Reporting: ** The script provides clear output, displaying the generated codes, their redeemability status, and corresponding URLs if applicable.
+- **📊 𝐂𝐥𝐞𝐚𝐫 𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠: ** The script provides clear output, displaying the generated codes, their redeemability status, and corresponding URLs if applicable.
 
 - **🤖 User Interaction:** With a user-friendly command-line interface, this script is accessible to both beginners and experienced users. It guides users through the process and reports results effectively.
 
