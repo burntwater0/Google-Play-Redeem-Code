@@ -16,7 +16,7 @@ def generate_code():
     code += ''.join(random.choices(string.ascii_uppercase + string.digits, k=12))
     return code
 
-def check_redeemability(codes, country="in"):
+def check_redeemability(codes, country="us"):
     redeemable_codes = []
     try:
         for code in codes:
