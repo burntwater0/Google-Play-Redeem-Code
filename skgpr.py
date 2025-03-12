@@ -36,7 +36,7 @@ def check_redeemability(codes, country="us"):
 def main():
     num_codes_to_generate = 2000  # Adjust the number of codes to generate
     codes_to_check = [generate_code() for _ in range(num_codes_to_generate)]
-    country = "in"  # India
+    country = "us"  # India
     redeemable_codes_list = check_redeemability(codes_to_check, country)
 
     print("Generated Codes:")
